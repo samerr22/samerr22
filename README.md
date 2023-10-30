@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameera Lakmal</h1>
-<h3 align="center">'m a software Developer and also a personal blogger</h3>
-
+<h3 align="center">I'm a software Developer and also a personal blogger</h3>
 
 - 🌱 I’m currently learning **react.js**
 
@@ -14,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sameera-lakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameera-lakmal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@bolgtips6637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bolgtips6637" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/sameera-lakmal-90506123b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sameera-lakmal-90506123b" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc3t2xv_odos94y6ozxmd_ga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3t2xv_odos94y6ozxmd_ga" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
