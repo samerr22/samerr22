@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **laksameera5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BlcTBu_D7_haXl0BK5BFKMkY7qeqGaaQ/view?usp=sharing](https://drive.google.com/file/d/1BlcTBu_D7_haXl0BK5BFKMkY7qeqGaaQ/view?usp=sharing)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1SvR9zQ3zfvhBgCutGceTkfHE44tvpcl7/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
