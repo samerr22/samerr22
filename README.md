@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sameera Lakmal</h1>
 <h3 align="center">I'm a software Developer and also a personal blogger</h3>
 
-- 🌱 I’m currently learning **react.js**
-
-- 📝 I regularly write articles on [https://saficc.com/](https://saficc.com/)
-
 - 💬 Ask me about **react**
 
 <h3 align="left">Connect with me:</h3>
