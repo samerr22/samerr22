@@ -1,23 +1,46 @@
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="center">Hi 👋, I'm Sameera Lakmal</h1>
 
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-</p>
+<h3 align="center">Software Developer | Personal Blogger</h3>
+
+---
+
+## 📫 Contact Information
+
+- 📧 Email: Laksameera5@gmail.com 
+- 💬 Ask me about: React, JavaScript, Web Development  
+- 🌱 Currently learning: Full Stack Development  
+- 🎯 Goal: Become a professional Software Engineer  
+
+---
+
+## 🧑‍💻 About Me
+
+I am a passionate software developer who enjoys building web applications using modern technologies like React, Node.js, and Firebase. I also write blogs and enjoy learning new technologies.
+
+---
+
+## 🛠 Languages and Tools
+
+Angular, Blender, C, C++, CSS3, Figma, HTML5, Java, JavaScript, Kotlin, MongoDB, MySQL, Node.js, PHP, Postman, React, React Native, Photoshop, Firebase
+
+---
+
+## 🚀 Projects
+
+- Food Delivery App (React + Firebase)
+- Air Quality Monitoring System
+- Personal Blog Website
+
+---
+
+## 📊 GitHub Stats
+
+- Active Developer 💻  
+- Learning Full Stack Development 🚀  
+- Building Real World Projects 🔥  
+
+---
+
+## 🤝 Let's Connect
+
+Email me at: **sameeralak64@gmail.com**
